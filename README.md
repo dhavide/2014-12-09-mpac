@@ -1,4 +1,4 @@
 2014-12-09-mpac
 ===============
 
-Software Carpentry bootcamp at MPAC
+Bootcamp at Municipal Property Assessment Corporation (Dec. 9-10, 2014).
